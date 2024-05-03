@@ -15,7 +15,7 @@ Esse é um exemplo de projeto utilizando Kubernetes
 ## Para preparar o ambiente:
 
 Para preparar o ambiente execute o script
-``./setup.sh``, isso irá instalar o minikube e construir a imagem do projeto nele, cajo já tenha o minikube instalado, para evitar problemas, o ideal é remover o contêiner e subir novamente com o script fornecido.
+``./setup.sh``, isso irá configurar o minikube no docker e construir a imagem do projeto nele, caso já tenha o minikube configurado no docker, para evitar problemas, o ideal é remover o contêiner e subir novamente com o script fornecido.
 
 ## Executar o cluster
 
