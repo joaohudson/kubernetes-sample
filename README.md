@@ -4,6 +4,8 @@
 
 Esse é um exemplo de projeto utilizando Kubernetes
 
+<img src="prints/screenshot.PNG">
+
 ## Requisitos
 - Um ambiente linux, seja uma distro linux, uma máquina virtual ou um subsistema linux.
 - Instalação do docker
