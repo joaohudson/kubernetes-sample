@@ -31,8 +31,8 @@ spec:
       app: sample
   strategy:
     rollingUpdate:
-      maxSurge: 2       # Excesso
-      maxUnavailable: 1 # Indisponivel (O que ele vai matar)
+      maxSurge: 2       
+      maxUnavailable: 1 
   template:
     metadata:
       labels:
