@@ -17,4 +17,4 @@ Para preparar o ambiente execute o script
 
 ## Executar o cluster
 
-Para executar o cluster basta executar o comando ``kubectl apply -f k8s.yaml``. O projeto será acessado via porta **30082**
+Para executar o cluster basta executar o comando ``kubectl apply -f k8s.yaml``. O projeto será acessado via **http://localhost:30082**
