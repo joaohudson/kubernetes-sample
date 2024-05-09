@@ -59,7 +59,7 @@ spec:
               key: CONFIG_VALUE
         - name: PRIVATE_VALUE
           valueFrom:
-            configMapKeyRef:
+            secretKeyRef:
               name: sample-secret
               key: PRIVATE_VALUE
 
